@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omkaarlavangare
 - 🌱 I’m currently learning about new developments in Data Science and Machine Learning
 - 📫 You can reach me at - omkaar35317@gmail.com
-
+- 🎮 Check out my Kaggle profile - https://www.kaggle.com/omkaarlavangare
 
 <!---
 omkaarlavangare/omkaarlavangare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
