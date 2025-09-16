@@ -22,6 +22,7 @@ Data Sources: Transactional data, market research, employee metrics
 Stakeholders: Department heads, product teams
 
 Mail: om35317@gmail.com | LinkedIn: www.linkedin.com/in/omkaar-lavangare
+
 Ready to turn your data into your competitive advantage.
 <!---
 omkaarlavangare/omkaarlavangare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
